@@ -7,8 +7,8 @@
   },
   "dependencies": {
     "elysia": "latest",
-    "mongodb": "^6.9.0",
-    "zod": "^3.23.8"
+    "mongodb": "^7.0.0",
+    "zod": "^4.1.13"
   },
   "devDependencies": {
     "bun-types": "latest"
